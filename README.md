@@ -1,4 +1,4 @@
-# EMG_train_NN
+# Extraction, Training and Offline test of Neural Network
 Codes used to extract, train and test (offline test) a Feedforward Neural Network with EMG arm data
 
 The file named "totalFeatExtracted1.csv" contains the database of the features extracted (using "ExtractorCaract.py") of a set of 
